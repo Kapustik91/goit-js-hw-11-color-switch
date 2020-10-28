@@ -1,1 +1,1 @@
-{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA","file":"main.af46ece4.css","sourceRoot":"..","sourcesContent":[""]}
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"main.af46ece4.css","sourceRoot":"..","sourcesContent":["button {\n  width: 100px;\n  height: 50px;\n  margin-right: 30px;\n}\n"]}

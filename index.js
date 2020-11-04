@@ -16,7 +16,7 @@ const colorSwitcher = {
         this.timerId = setInterval(() => {
             const min = 0;
             const max = colors.length - 1;
-            let i = randomIntegerFromInterval(min, max);
+            const i = randomIntegerFromInterval(min, max);
             refs.body.style.backgroundColor = colors[i];
             console.log(`Меняется цвет`);
         }, 1000);
